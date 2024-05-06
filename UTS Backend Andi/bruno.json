@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "UTS Backend Andi",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
